@@ -19,6 +19,7 @@
 
 ### 👋 About Me
 
+- AI/ML Enginner @ Translation Empire
 - 3+ years building production AI/ML systems
 - Certified by Stanford, IBM, Duke, Vanderbilt, Michigan, Cisco
 - Specializing in GenAI, MLOps, Computer Vision, RAG chatbots
